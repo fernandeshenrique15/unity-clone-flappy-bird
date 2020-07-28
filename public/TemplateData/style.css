@@ -15,4 +15,7 @@
 .webgl-content .footer .webgl-logo, .title, .fullscreen {height: 100%; display: inline-block; background: transparent center no-repeat;}
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
-.webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
+.webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right; border: 1px solid #811411;}
+
+.duo { background-color: #ea4335; border: 1px solid #811411; height: 38px; padding: 0 8px; float: right; margin-right: 1%;}
+.duo > a { color: white; text-decoration: none;}
