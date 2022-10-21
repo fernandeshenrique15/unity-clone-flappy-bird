@@ -1,6 +1,6 @@
 {
   "name": "FlappyBird",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FlappyBird Online",
   "main": "server.js",
   "scripts": {
